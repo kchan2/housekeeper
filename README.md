@@ -1,9 +1,9 @@
-# housekeeper
+# Housekeeper
 ## Inspiration
 Because of a pandemic, students have to get used to a new way of learning and doing tasks. It is really hard to sit in front of their desks the whole time for attending classes and doing work. It is easy to lose concentration and students are not as motivated to do work. Therefore, we try to gamify the way students keep track of their work so they can be more motivated.
 
 ## What it does
-Here's the setting of the "game": Zombies attack your house every 12:00 AM (when a day ends). The only way you can secure your house is to complete the shield by finishing all the tasks that are due on that day. If tasks are not done, your house gets destroyed. To repair it, you have to finish all the past-due tasks. You can add tasks, finish tasks, delete tasks, and show tasks.
+The reason why this is called Housekeeper is that you get to do housekeeping things here and you actually get to "keep a house". Here's the setting of the "game": Zombies attack your house every 12:00 AM (when a day ends). The only way you can secure your house is to complete the shield by finishing all the tasks that are due on that day. If tasks are not done, your house gets destroyed. To repair it, you have to finish all the past-due tasks. You can add tasks, finish tasks, delete tasks, and show tasks.
 
 ## How we built it
 We use Java for the whole project. We created some java classes and a main program. We also included a xml parser and a writer.
